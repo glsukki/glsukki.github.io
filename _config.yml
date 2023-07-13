@@ -423,18 +423,18 @@ medium_zoom:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: resume
+  - data: cv
     json: "https://glsukki.github.io/glsukki/assets/json/resume.json"
 jsonresume:
   - basics
-  # - work
-  # - education
-  # - publications
-  # - projects
-  # - volunteer
-  # - awards
-  # - certificates
-  # - skills
-  # - languages
-  # - interests
-  # - references
+  - work
+  - education
+  - publications
+  - projects
+  - volunteer
+  - awards
+  - certificates
+  - skills
+  - languages
+  - interests
+  - references
