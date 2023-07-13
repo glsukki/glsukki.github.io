@@ -427,6 +427,7 @@ jekyll_get_json:
     json: "assets/json/resume.json"
 jsonresume:
   - basics
+    - location
   - work
   - education
   - publications
