@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Intern @ FarLAB Cornell Tech, MEng CS @ Cornell University
+subtitle: Research Intern @ FarLAB | Cornell Tech, MEng CS @ Cornell University
 profile:
   align: right
   image: prof_pic.jpg
@@ -22,13 +22,16 @@ social: true # includes social icons at the bottom of the page
 Hey,  
 Sukruth here!
 
-I am currently pursuing my Masters in Computer Science at Cornell University, Ithaca, New York and worked as a Graduate Teaching/Research Specialist for the course CS 2024 [C++] during the Fall '22 semester.
+I am currently pursuing my Masters in Computer Science at Cornell University, Ithaca, New York and worked as a Graduate Teaching/Research Specialist for the course [CS 2024](https://courses.cs.cornell.edu/cs2024/2022fa/) \[C++\] during the Fall '22 semester.
 
-I am currently interning as a researcher in the Future Automation Research Laboratory (FARLAB) at Cornell Tech under the Guidance of [Wendy Ju](https://tech.cornell.edu/people/wendy-ju/), focusing on understanding the dynamics of human empathy in relation to task failure performance in both humans and robots. This has allowed me to delve into the fascinating intersection of human behavior and technology. My interests primarily revolve around Machine Learning, Data Science, and Software Development.
+I am currently interning as a researcher in the Future Automation Research Laboratory (FARLAB) at [Cornell Tech](https://tech.cornell.edu/) under the guidance of [Wendy Ju](https://tech.cornell.edu/people/wendy-ju/), focusing on understanding the dynamics of human empathy in relation to task failure performance in both humans and robots. This has allowed me to delve into the fascinating intersection of human behavior and technology. My interests primarily revolve around Machine Learning, Data Science, and Software Development.
 
-Prior to my graduate studies, I completed my Bachelors of Engineering in Information Science and Engineering from M S Ramaiah Institute of Technology (MSRIT) in Bangalore. This foundational education has equipped me with a strong technical background and a passion for exploring the latest advancements in the field.
+Prior to my graduate studies, I completed my Bachelor's degree in Information Science and Engineering from [M S Ramaiah Institute of Technology (MSRIT)](https://www.msrit.edu/) in Bangalore.
+Here, I received the \'Student Innovation Grant Award\' for my capstone project from the Artificial Intelligence and Robotics Technology Park (ARTPARK), Indian Institute of Science (IISc).
 
-Grants Awarded: 'Student Innovation Grant Program' in Artificial Intelligence, Robotics and Autonomous Systems, during the 2021 call from Artificial Intelligence and Robotics Technology Park (ARTPARK) hosted by Indian Institute of Science (IISc) (a joint-initiative of IISc, Alfoundry, Department of Science and Technology (DST) and Government of Karnataka)
+This foundational education has equipped me with a strong technical background and a passion for exploring the latest advancements in the field.
+
+<!-- Grants Awarded: 'Student Innovation Grant Program' in Artificial Intelligence, Robotics and Autonomous Systems, during the 2021 call from Artificial Intelligence and Robotics Technology Park (ARTPARK) hosted by Indian Institute of Science (IISc) (a joint-initiative of IISc, Alfoundry, Department of Science and Technology (DST) and Government of Karnataka) -->
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
