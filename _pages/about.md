@@ -19,8 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey!
-
+Hey,  
 Sukruth here!
 
 I am currently pursuing my Masters in Computer Science at Cornell University, Ithaca, New York and worked as a Graduate Teaching/Research Specialist for the course CS 2024 [C++] during the Fall '22 semester.

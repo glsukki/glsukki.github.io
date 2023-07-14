@@ -5,7 +5,7 @@
     "image": "",
     "email": "sg2257@cornell.edu",
     "phone": "",
-    "url": "https://www.linkedin.com/in/glsukruth",
+    "url": "",
     "summary": "",
     "location": {
       "address": "2712 Broadway St",
@@ -29,11 +29,8 @@
       "url": "",
       "startDate": "2023/05",
       "endDate": "Present",
-      "summary": "Understanding human empathy in relation to task failure performance, both in humans and robots to explore the intricacies of human emotions and utilize this comprehension as a learning parameter for robots. By recognizing their actions and leveraging this understanding, the aim is to empower robots to improve their performance in a variety of tasks.",
-      "highlights": [
-        "Human-Robot Interaction (HRI)",
-        "Machine Learning"
-      ]
+      "summary": "Worked towards understanding human empathy in relation to task failure performance, both in humans and robots to explore the intricacies of human emotions and utilize this comprehension as a learning parameter for robots. By recognizing their actions and leveraging this understanding, the aim is to empower robots to improve their performance in a variety of tasks.",
+      "highlights": []
     },
     {
       "name": "Sabre Corporation",
@@ -42,10 +39,7 @@
       "startDate": "2022/01",
       "endDate": "2022/06",
       "summary": "Worked on the Passenger Recommendation Engine in the Departure Control System (DCS - IQ) platform of Sabre.",
-      "highlights": [
-        "RESTAPIs",
-        "SpringBoot"
-      ]
+      "highlights": []
     },
     {
       "name": "Bangalore Endoscopic Surgery Training Institute and Research Centre (BEST)",
@@ -54,10 +48,7 @@
       "startDate": "2021/03",
       "endDate": "2021/08",
       "summary": "Worked on the project titled - \"Developing a training module for surgical residents and surgeons to learn to perform laparoscopic cholecystectomy,\" which won the Discovery Award by the Global Surgical Training Challenge by MIT - Solve",
-      "highlights": [
-        "Data Analysis",
-        "Machine Learning"
-      ]
+      "highlights": []
     },
     {
       "name": "Cornell Bowers CIS, Cornell University",
