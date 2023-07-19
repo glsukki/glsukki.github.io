@@ -90,7 +90,10 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [{
+    "name": "Programming Languages",
+    "keywords": ["C, C++, Python, Java, SQL"]
+  }],
   "languages": [
     {
       "language": "English",
