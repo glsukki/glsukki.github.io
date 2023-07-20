@@ -92,18 +92,17 @@
   "publications": [],
   "skills": [{
     "name": "Programming Languages",
-    "keywords": ["C, C++, Python, Java, SQL"]
-  }],
-  "languages": [
+    "keywords": ["C, C++, Python, Java, SQL, MATLAB"]
+  },{
+    "name": "Libraries",
+    "keywords": ["Pandas, Scipy, Scikit-learn, cv2, OpenSmile, OpenFace, OpenPose"]
+  }, 
     {
-      "language": "English",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Kannada",
-      "fluency": "Native speaker"
+      "name": "Tools",
+      "keywords": ["GCP, Postman, Springboot, Jenkins, Git (VCS), Bitbucket"]
     }
   ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []
