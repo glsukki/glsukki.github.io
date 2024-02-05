@@ -2,16 +2,18 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Intern @ FarLAB | Cornell Tech, MEng CS @ Cornell University
+subtitle: Machine Learning Engineer @ Dicer.ai | CS @ Cornell University
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>2 W Loop Road</p>
-    <p>Cornell Tech</p>
-    <p>New York, New York 10044</p>
-    <p> United States </p>
+      <p> New York, New York </p>
+      <p> United States </p>
+    # <p>2 W Loop Road</p>
+    # <p>Cornell Tech</p>
+    # <p>New York, New York 10044</p>
+    # <p> United States </p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -22,9 +24,14 @@ social: true # includes social icons at the bottom of the page
 Hey,  
 Sukruth here!
 
-I am currently pursuing my Masters in Computer Science at Cornell University, Ithaca, New York and worked as a Graduate Teaching/Research Specialist for the course [CS 2024](https://courses.cs.cornell.edu/cs2024/2022fa/) \[C++\] during the Fall '22 semester.
+I am currently working as a Machine Learning Engineer @ [Dicer.ai](https://www.dicer.ai/) in the Generative AI domain for Advertisment Content Generation to improve the Ad Images and Descriptions by leveraging state-of-the-art LLMs in a iterative process. 
 
-I am currently interning as a researcher in the Future Automation Research Laboratory (FARLAB) at [Cornell Tech](https://tech.cornell.edu/) under the guidance of [Wendy Ju](https://tech.cornell.edu/people/wendy-ju/), focusing on understanding the dynamics of human empathy in relation to task failure performance in both humans and robots. This has allowed me to delve into the fascinating intersection of human behavior and technology. My interests primarily revolve around Machine Learning, Data Science, and Software Development.
+I graduated from my Masters in Computer Science at Cornell Univeristy, Ithaca, NY in August 2023. During my time at Cornell, I worked as a Graduate Teaching/Research Specialist for the course [CS 2024](https://courses.cs.cornell.edu/cs2024/2022fa/) \[C++\] during the Fall '22 semester.
+
+My Masters Research project titled - "Humans, Robots, and Empathy: Investigating Bystander Reactions to Failure" - was focused on understanding the dynamics of human empathy in relation to task failure performance in both humans and robots in the Future Automation Research Laboratory (FarLABs) at [Cornell Tech](https://tech.cornell.edu/) under the guidance of [Dr. Wendy Ju](https://tech.cornell.edu/people/wendy-ju/).
+Upon graduation, I continued as a research intern involved in studies towards Domain Generalization of robots in _In-lab_ vs _In-the-wild_ environments.
+
+This has allowed me to delve into the fascinating intersection of human behavior and technology. My interests primarily revolve around Machine Learning, Data Science, and Software Development.
 
 Prior to my graduate studies, I completed my Bachelor's degree in Information Science and Engineering from [M S Ramaiah Institute of Technology (MSRIT)](https://www.msrit.edu/) in Bangalore.
 Here, I received the \'Student Innovation Grant Award\' for my capstone project from the Artificial Intelligence and Robotics Technology Park (ARTPARK), Indian Institute of Science (IISc).
